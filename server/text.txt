@@ -1,0 +1,7 @@
+same page to redirect to user login, doctor login and admin login
+edit info of doctor by admin
+message to a doctor by admin
+leave application from doctor to admin
+improve css and improve content
+delete doctor by admin is not working
+try to deploy
